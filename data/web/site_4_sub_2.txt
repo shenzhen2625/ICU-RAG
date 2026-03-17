@@ -1,0 +1,202 @@
+Positive End-Expiratory Pressure (PEEP)
+OVERVIEW
+Positive End-Expiratory Pressure (PEEP) is the maintenance of positive pressure (above atmospheric) at the airway opening at the end of expiration. PEEP acts to distend alveoli, assuming there is no obstruction of proximal conducting airways.
+- PEEP is routinely used in mechanical ventilation to prevent collapse of alveoli, and to promote recruitment of collapsed alveoli
+- How to optimise PEEP is a controversial topic, but should involve (1) optimisation of oxygenation and (2) minimisation of ventilator induced lung injury (VILI), and should should be individualised for a given patient
+- “High” PEEP is used as part of an Open Lung Approach To Ventilation for Acute Respiratory Distress Syndrome (ARDS)
+- In spontaneous ventilation using non-invasive ventilation (NIV), CPAP (continuous positive airway pressure) is analogous to PEEP, but the pressure applied is maintained throughout the respiratory cycle (during both inspiration and expiration).
+EXTRINSIC, INTRINSIC, AND TOTAL PEEP
+Extrinsic PEEP (PEEPe) is applied by placing resistance in the expiratory limb of a ventilator circuit
+- a threshold resistor is preferred, as resistance to flow is minimal once threshold pressure is reached
+- a solenoid valve is commonly used in ventilators
+- this impedes flow out of the lungs during expiration, the resulting resulting back pressure generates PEEPe
+Intrinsic PEEP (PEEPi) or autoPEEP
+- elevation in the static recoil pressure of the lungs above the set PEEPe at end expiration
+- due to insufficient expiratory time (Te), typically in the presence of severe air-flow obstruction (e.g. bronchospasm in asthma)
+- less likely to be uniformly distributed than PEEPe
+- also termed “occult PEEP” as PEEPi is not apparent on proximal airway pressure recordings (Pepe & Marini, 1982; Marino, 2013)
+- see Intrinsic PEEP (PEEPi)
+Total PEEP (PEEPtot)
+- PEEPtot = PEEPi + PEEPe
+ADVANTAGES OF PEEP
+Advantages of PEEP include:
+- increased airway pressure (improves oxygenation and alveolar recruitment)
+- increased functional residual capacity (FRC) (prevention of airway and alveolar collapse)
+- increase arterial oxygen tension (PaO2)
+- increased capillary-alveoli interface for gas exchange
+- extra-vascular lung water (EVLW) may be displaced from alveolar interstitium to peribronchial interstitium
+- minimises denitrogenation atelectasis and oxygen toxicity (by allowing lower FiO2)
+- maximises recruitment of alveoli
+- prevents cyclic de-recruitment on expiration (decreases atelectrauma and VILI)
+- decreases biotrauma from alveolar collapse (e.g. release of inflammatory mediators)
+- improved lung compliance (inspiration begins on a steeper portion of the volume-pressure curve)
+- decreased airway resistance
+- decreased ventilation/perfusion (V/Q) mismatch and shunt fraction
+- improved distribution of inspired gas
+- decreased work of breathing (less effort to trigger inspiration in spontaneous ventilation modes as alveolar pressure only needs to decrease to the level of PEEP for inspiration to occur)
+- prevention of surfactant aggregation reducing alveolar collapse
+- decreased inflammatory response to mechanical ventilation
+- decrease in left ventricular (LV) afterload (due to decreased LV transmural pressure)
+- decreased preload and work of breathing also help in acute pulmonary oedema
+DISADVANTAGES OF PEEP
+Disadvantages of PEEP include:
+- impaired carbon dioxide (CO2) elimination
+- if decreased tidal volume due to lower driving pressure or poor compliance due to alveolar over-distention
+- overinflation of non-dependent alveoli (e.g. in focal ARDS, less likely if Pplat <30 cmH20 or safe driving pressures) (Çoruh & Luks, 2014)
+- right heart effects (may lead to decreased cardiac output, especially if co-existent hypovolaemia and compliant lungs) (Fougères et al, 2010)
+- decreased right ventricular (RV) preload (venous return) (due to increased intrathoracic pressure)
+- increased RV afterload
+- intra-ventricular septum displacement causing decreased LV compliance and impair LV function (Jardin et al, 1981)
+- increased pulmonary vascular resistance (PVR) (due to increased intrathoracic pressure) (Çoruh & Luks, 2014)
+- occurs in West’s zone I and II where increased alveolar pressure exceeds venous pressure
+- leads to preferential blood flow to diseased lung portions in heterogenous lung disease
+- increased dead space
+- due to decreased flow in West’s zone I (PA > Pa >Pv)
+- exacerbation of right-to-left intracardiac shunt (if present)
+- due to increased PVR
+- decreased hepatic artery and portal venous flow (due to increased intrathoracic pressure)
+- causes liver congestion and LFT changes
+- increased intracranial pressure (ICP) (due to increased intrathoracic pressure)
+- likely insignificant < PEEP 15 cmH20 (Huynh et al, 2002; Boone et al, 2017)
+- decreased peribronchial lymphatic flow
+- theoretically may decrease the clearance of pulmonary oedema and pneumonia
+- decreased splanchnic blood flow
+- reduced urine output due to:
+- increased antidiuretic hormone (ADH)
+- increased atrial natriuretic peptide (ANP)
+- decreased glomerular filtration rate (GFR)
+VARIATION IN EFFECTS OF PEEP
+The effects of PEEP vary with different disease states
+- e.g. patients with “recruitable” lung are more likely to be “PEEP responders” and have improved oxygenation and/or alveolar stability with an increase in PEEP
+- e.g. PEEP will cause less increase in intrathoracic pressure if lungs are poorly compliant (e.g. severe ARDS)
+- e.g. regional overdistention is more likely with focal lung diseases (e.g. lobar pneumonia)
+Not all ARDS patients are “PEEP responsive” and the degree of lung recruitability in “responders” is variable (Gattinoni et al, 2020)
+- only ~50% of all ARDS patients respond to higher airway pressure by decreasing the percentage of non-aerated lung tissue
+DETERMINING OPTIMAL PEEP
+Optimal PEEP level ultimately represents a balance between regional areas of overstretching and regional derecruitment to prevent VILI, while achieving optimal oxygenation and minimsing harmful effects such as haemodynamic compromise (Schmidt, 2012; Miller et al, 2012).
+- no agreed upon ideal method of determination
+- optimal PEEP may:
+- change over time in an individual patient (e.g. disease progression, positioning)
+- be independent of oxygenation (e.g. due to hyperinflation injury) as increased oxygenation does not correlate with improved alveolar stability (Nieman et al, 2019; Schmidt, 2012)
+- be independent of respiratory mechanics
+- Certain patients groups may have different PEEP requirements
+- e.g. patients with obesity typically need higher PEEP than non-obese patients to maintain alveolar recruitment
+- e.g. in asthma, can use either ZEEP (PEEP = 0) or 2/3 of measured auto-PEEP – there is no high-level evidence for either, approach however PEEP is preferred in spontaneous ventilation modes to reduce work of breathing.
+Many methods can be used to determine the optimum PEEP setting, all of which have pros and cons:
+- adjust according to a sliding scale of FiO2 requirements (e.g. as per ARDSNet Ventilation Strategy for protective lung ventilation)
+- a simple, pragmatic approach that focus on optimising oxygenation and Plat
+- PEEP settings at low FiO2 typically are lower than those suggested by PEEP optimisation strategies based on lung recruitment (e.g. Open Lung Approach To Ventilation).
+- perform recruitment manoeuvre (RM) (see Recruitment manoeuvres in ARDS) then adjust to either optimal SpO2, static compliance, or other parameter listed below.
+- Staircase recruitment manoeuvres are generally cautioned against due to increased mortality seen in the intervention arm of the ART trial (ART trial investigators, 2017)
+- set PEEP according to pressure-volume loop analysis. Various approaches have been proposed including setting PEEP based on:
+- inflation limb lower inflection point (Pflex),
+- deflation limb upper Pflex,
+- maximal compliance,
+- true inflection point of the deflation limb,
+- the degree of hysteresis, or
+- stress index (a parameter derived from the PV loop, a straight line (0.95 > SI <1.05) is indicative of less injurious ventilation)
+- adjust PEEP to maximise static compliance (Cstat) (increased risk of alveolar stretch above this)
+- Cstat = TV / (Pplat – PEEP)
+- tends to underestimate alveolar recruitment
+- adjust PEEP to optimise driving pressure (implies optimal compliance, but also affected by tidal volume/ plateau pressure)
+- adjust PEEP to minimise PaCO2-ETCO2 gradient (surrogate for dead space)
+- guided by pulmonary computed tomography (CT)
+- often impractical
+- may be used to estimate lung strain (ratio of end-inspiratory volume and functional residual capacity)
+- may be used to quantify recruitment as the amount of tissue that regains aeration from the gasless state or as a reduced radio-density in well-defined anatomical regions (Gattinoni et al, 2020)
+- CT-derived PEEP does not correlate well with indicators of recruitment based on respiratory mechanics, which assess compliance of both previously closed alveoli and alveoli that were already open prior to intervention (Cressoni et al, 2014)
+- lowest intra-pulmonary shunt (highest SvO2)
+- esophageal balloon directed estimation of pleural pressures to calculate transpulmonary pressures (TPP) and guide PEEP titration
+- electrical impedance tomography (EIT)
+- model-based methods
+See Open Lung Approach To Ventilation for further discussion of PEEP in mechanical ventilation.
+EVIDENCE
+Overall, higher PEEP, compared with lower PEEP, is associated with improved mortality in ARDS patients
+- Briel et al (2010) systematic review and meta-analysis
+- used independent patient data from the above 3 trials ( 2299 patients) and showed that higher levels of PEEP were associated with improved survival among moderate-and-severe ARDS but not ALI patients (i.e. if PF ratios <200 there was 34.1% versus 39.1% mortality with adjusted RR, 0.90; 95% CI, 0.81-1.00; P = 0.049)
+- Laffey et al (2016) observational study
+- this study involved 2377 patients from 459 ICUs from 50 countries and found that for moderate ARDS, patients with a lower PEEP (<12 cmH2O) had a risk of hospital mortality 26 % greater than those observed in patients with higher PEEP [RR 1.26 (95 % CI 1.00–1.58)]. This was not seen in mild or severe ARDS.
+AN APPROACH
+ARDSNet Ventilation Strategy remains a pragmatic approach to setting PEEP in most mechanically ventilated patients. However ATS/ESICM/SCCM guidelines recommend the use of higher, rather than lower PEEP, in the management of ARDS (Fan et al, 2017).
+- certain patients groups probably benefit from different approaches (e.g. lower PEEP in obstructive airways disease and higher PEEP in obesity)
+- some ARDS patients may be “PEEP responders” and benefit from higher PEEP settings as part of an Open Lung Approach To Ventilation
+Regardless of the approach used, PEEP settings should always be optimised according to individual patient needs and their response to therapy.
+- After a few days of mechanical ventilation, PEEP-induced alveolar recruitment tends to become independent of the underlying cause of ARDS (Thille et al, 2007)
+- An example is COVID-19 disease, where patients may initially have high lung compliance (despite significant hypoxaemia) and progress to poor lung compliance over time.
+FIGURES
+Figure 1. The sigmoid-shaped inspiratory limb of the pressure (x-axis)-volume (y-axis) curve of the lung (Miller et al, 2012). Alveoli are shown as ovals and circles of increasing width as pressure increases. Increased pressure may recruit airless alveoli below the lower inflection point (a). Alveoli will progressively distend with increasing pressure between the lower and upper inflection points (b). Overdistention, and alveolar injury, may occur with increasing pressure above the upper inflection point (c),
+Figure 2. West’s zones demonstrating the relationship between alveolar pressure (PA), arterial pressure (Pa), and venous pressure (Pv) in different zones of the lung (West et al, 1964) Increased PEEP tends to increases PA, increasing the proportion of lung in zones 1 and 2 in normal lungs. In patients with ARDS and/or atelectasis, PEEP may recruit additional lung units into Zone 3, that previously were not ventilated.
+Figure 3. Graph showing the variation in collapse/ hyperdistention and respiratory compliance at different PEEP values (Pereira et al, 2018). Here optimal PEEP is 14, as this optimises lung compliance and is just above the PEEP setting (12) where the hyperdistention and respiratory compliance curves intersect.
+References and Links
+CCC Ventilation Series
+Modes: Adaptive Support Ventilation (ASV), Airway Pressure Release Ventilation (APRV), High Frequency Oscillation Ventilation (HFOV), High Frequency Ventilation (HFV), Modes of ventilation, Non-Invasive Ventilation (NIV), Spontaneous breathing and mechanical ventilation
+Conditions: Acute Respiratory Distress Syndrome (ARDS), ARDS Definitions, ARDS Literature Summaries, Asthma, Bronchopleural Fistula, Burns, Oxygenation and Ventilation, COPD, Haemoptysis, Improving Oxygenation in ARDS, NIV and Asthma, NIV and the Critically Ill, Ventilator Induced Lung Injury (VILI), Volutrauma
+Strategies: ARDSnet Ventilation, Open lung approach, Oxygen Saturation Targets, Protective Lung Ventilation, Recruitment manoeuvres in ARDS, Sedation pauses, Selective Lung Ventilation
+Adjuncts: Adjunctive Respiratory Therapies, ECMO Overview, Heliox, Neuromuscular blockade in ARDS, Prone positioning and Mechanical Ventilation
+Situations: Cuff leak, Difficulty weaning, High Airway Pressures, Post-Intubation Care, Post-intubation hypoxia
+Troubleshooting: Autotriggering of the ventilator, High airway and alveolar pressures / pressure alarm, Ventilator Dyssynchrony
+Investigation / Indices: A-a gradient, Capnography and waveforms, Electrical Impedance Tomography, Indices that predict difficult weaning, PaO2/FiO2 Ratio (PF), Transpulmonary pressure (TPP)
+Extubation: Cuff Leak Test, Extubation Assessment in ED, Extubation Assessment in ICU, NIV for weaning, Post-Extubation Stridor, Spontaneous breathing trial, Unplanned extubation, Weaning from mechanical ventilation
+Core Knowledge: Basics of Mechanical Ventilation, Driving Pressure, Dynamic pressure-volume loops, flow versus time graph, flow volume loops, Indications and complications, Intrinsic PEEP (autoPEEP), Oxygen Haemoglobin Dissociation Curve, Positive End Expiratory Pressure (PEEP), Pulmonary Mechanics, Pressure Vs Time Graph, Pressure vs Volume Loop, Setting up a ventilator, Ventilator waveform analysis, Volume vs time graph
+Equipment: Capnography and CO2 Detector, Heat and Moisture Exchanger (HME), Ideal helicopter ventilator, Wet Circuit
+MISC: Sedation in ICU, Ventilation literature summaries
+Introduction to ICU Series
+Introduction to ICU Series Landing Page
+DAY TO DAY ICU: FASTHUG, ICU Ward Round, Clinical Examination, Communication in a Crisis, Documenting the ward round in ICU, Human Factors
+AIRWAY: Bag Valve Mask Ventilation, Oropharyngeal Airway, Nasopharyngeal Airway, Endotracheal Tube (ETT), Tracheostomy Tubes
+BREATHING: Positive End Expiratory Pressure (PEEP), High Flow Nasal Prongs (HFNP), Intubation and Mechanical Ventilation, Mechanical Ventilation Overview, Non-invasive Ventilation (NIV)
+CIRCULATION: Arrhythmias, Atrial Fibrillation, ICU after Cardiac Surgery, Pacing Modes, ECMO, Shock
+CNS: Brain Death, Delirium in the ICU, Examination of the Unconscious Patient, External-ventricular Drain (EVD), Sedation in the ICU
+GASTROINTESTINAL: Enteral Nutrition vs Parenteral Nutrition, Intolerance to EN, Prokinetics, Stress Ulcer Prophylaxis (SUP), Ileus
+GENITOURINARY: Acute Kidney Injury (AKI), CRRT Indications
+HAEMATOLOGICAL: Anaemia, Blood Products, Massive Transfusion Protocol (MTP)
+INFECTIOUS DISEASE: Antimicrobial Stewardship, Antimicrobial Quick Reference, Central Line Associated Bacterial Infection (CLABSI), Handwashing in ICU, Neutropenic Sepsis, Nosocomial Infections, Sepsis Overview
+SPECIAL GROUPS IN ICU: Early Management of the Critically Ill Child, Paediatric Formulas, Paediatric Vital Signs, Pregnancy and ICU, Obesity, Elderly
+FLUIDS AND ELECTROLYTES: Albumin vs 0.9% Saline, Assessing Fluid Status, Electrolyte Abnormalities, Hypertonic Saline
+PHARMACOLOGY: Drug Infusion Doses, Summary of Vasopressors, Prokinetics, Steroid Conversion, GI Drug Absorption in Critical Illness
+PROCEDURES: Arterial line, CVC, Intercostal Catheter (ICC), Intraosseous Needle, Underwater seal drain, Naso- and Orogastric Tubes (NGT/OGT), Rapid Infusion Catheter (RIC)
+INVESTIGATIONS: ABG Interpretation, Echo in ICU, CXR in ICU, Routine daily CXR, FBC, TEG/ROTEM, US in Critical Care
+ICU MONITORING: NIBP vs Arterial line, Arterial Line Pressure Transduction, Cardiac Output, Central Venous Pressure (CVP), CO2 / Capnography, Pulmonary Artery Catheter (PAC / Swan-Ganz), Pulse Oximeter
+Journal articles
+- Amato MB, Meade MO, Slutsky AS, et al. Driving pressure and survival in the acute respiratory distress syndrome. N Engl J Med. 2015;372(8):747–755. doi:10.1056/NEJMsa1410639 [pubmed]
+- ART investigators writing group. Effect of Lung Recruitment and Titrated Positive End-Expiratory Pressure (PEEP) vs Low PEEP on Mortality in Patients With Acute Respiratory Distress Syndrome: A Randomized Clinical Trial. JAMA. 2017; 318(14):1335-1345. [pubmed] [article] (ART)
+- Boone MD, Jinadasa SP, Mueller A, et al. The Effect of Positive End-Expiratory Pressure on Intracranial Pressure and Cerebral Hemodynamics. Neurocrit Care. 2017;26(2):174–181. doi:10.1007/s12028-016-0328-9 [pubmed]
+- Briel M, Meade M, Mercat A, et al. Higher vs lower positive end-expiratory pressure in patients with acute lung injury and acute respiratory distress syndrome: systematic review and meta-analysis. JAMA. 2010 Mar 3;303(9):865-73. [pubmed]
+- Çoruh B, Luks AM. Positive end-expiratory pressure. When more may not be better. Ann Am Thorac Soc. 2014;11(8):1327–1331. doi:10.1513/AnnalsATS.201404-151CC [pubmed]
+- Cressoni M, Chiumello D, Carlesso E, et al. Compressive forces and computed tomography-derived positive end-expiratory pressure in acute respiratory distress syndrome. Anesthesiology. 2014;121(3):572–581. doi:10.1097/ALN.0000000000000373 [pubmed]
+- Fan E, Del Sorbo L, Goligher EC, et al. An Official American Thoracic Society/European Society of Intensive Care Medicine/Society of Critical Care Medicine Clinical Practice Guideline: Mechanical Ventilation in Adult Patients with Acute Respiratory Distress Syndrome [published correction appears in Am J Respir Crit Care Med. 2017 Jun 1;195(11):1540]. Am J Respir Crit Care Med. 2017;195(9):1253–1263. doi:10.1164/rccm.201703-0548ST [pubmed]
+- Fougères E, Teboul JL, Richard C, Osman D, Chemla D, Monnet X. Hemodynamic impact of a positive end-expiratory pressure setting in acute respiratory distress syndrome: importance of the volume status. Crit Care Med 2010;38:802–807 [pubmed]
+- Gattinoni L, Caironi P, Cressoni M, et al. Lung recruitment in patients with the acute respiratory distress syndrome. N Engl J Med. 2006;354(17):1775–1786. doi:10.1056/NEJMoa052052 [pubmed]
+- Gattinoni L, Collino F, Maiolo G, et al. Positive end-expiratory pressure: how to set it at the individual level. Ann Transl Med. 2017;5(14):288. doi:10.21037/atm.2017.06.64 [pubmed]
+- Gattinoni L, Marini JJ, Quintel M. Recruiting the Acutely Injured Lung: How and Why?. Am J Respir Crit Care Med. 2020;201(2):130–132. doi:10.1164/rccm.201910-2005ED [pubmed]
+- Huynh T, Messer M, Sing RF, Miles W, Jacobs DG, Thomason MH. Positive end-expiratory pressure alters intracranial and cerebral perfusion pressure in severe traumatic brain injury. J Trauma. 2002;53(3):488–493. doi:10.1097/00005373-200209000-00016 [pubmed]
+- Jardin F, Farcot JC, Boisante L, Curien N, Margairaz A, Bourdarias JP. Influence of positive end-expiratory pressure on left ventricular performance. N Engl J Med 1981;304:387–392. [pubmed]
+- Laffey JG, Bellani G, Pham T, et al. Potentially modifiable factors contributing to outcome from acute respiratory distress syndrome: the LUNG SAFE study [published correction appears in Intensive Care Med. 2017 Nov 14;:]. Intensive Care Med. 2016;42(12):1865–1876. doi:10.1007/s00134-016-4571-5 [pubmed]
+- Marino, PL. Marino’s ICU Book. (4th edition). Lippincott Williams & Wilkins, 2013. [google books]
+- Mauri T, Bellani G, Confalonieri A, et al. Topographic distribution of tidal ventilation in acute respiratory distress syndrome: effects of positive end-expiratory pressure and pressure support. Crit Care Med. 2013;41(7):1664–1673. doi:10.1097/CCM.0b013e318287f6e7 [pubmed]
+- Miller RR 3rd, MacIntyre NR, Hite RD, Truwit JD, Brower RG, Morris AH. Point: should positive end-expiratory pressure in patients with ARDS be set on oxygenation? Yes. Chest. 2012;141(6):1379–1382. doi:10.1378/chest.12-0155 [pubmed]
+- Nieman GF, Satalin J, Andrews P, Aiash H, Habashi NM, Gatto LA. Personalizing mechanical ventilation according to physiologic parameters to stabilize alveoli and minimize ventilator induced lung i]njury (VILI). Intensive Care Med Exp. 2017;5(1):8. doi:10.1186/s40635-017-0121-x [pubmed]
+- Rezoagli E, Bellani G. How I set up positive end-expiratory pressure: evidence- and physiology-based!. Crit Care. 2019;23(1):412. Published 2019 Dec 16. doi:10.1186/s13054-019-2695-z [pubmed]
+- Pepe PE, Marini JJ. Occult positive end-expiratory pressure in mechanically ventilated patients with airflow obstruction: the auto-PEEP effect. Am Rev Respir Dis. 1982;126(1):166–170. doi:10.1164/arrd.1982.126.1.166 [pubmed]
+- Pereira SM, Tucci MR, Morais CCA, et al. Individual Positive End-expiratory Pressure Settings Optimize Intraoperative Mechanical Ventilation and Reduce Postoperative Atelectasis. Anesthesiology. 2018;129(6):1070–1081. doi:10.1097/ALN.0000000000002435 [pubmed]
+- Schmidt GA. Counterpoint: should positive end-expiratory pressure in patients with ARDS be set based on oxygenation? No. Chest. 2012;141(6):1382–1384. doi:10.1378/chest.12-0157 [pubmed]
+- Suter PM, Fairley B, Isenberg MD. Optimum end-expiratory airway pressure in patients with acute pulmonary failure. N Engl J Med. 1975;292(6):284–289. doi:10.1056/NEJM197502062920604 [pubmed]
+- Thille AW, Richard JC, Maggiore SM, Ranieri VM, Brochard L. Alveolar recruitment in pulmonary and extrapulmonary acute respiratory distress syndrome: comparison using pressure-volume curve or static compliance. Anesthesiology. 2007;106(2):212–217. doi:10.1097/00000542-200702000-00007 [pubmed]
+- Tobin MJ, Lodato RF. PEEP, auto-PEEP, and waterfalls. Chest. 1989;96(3):449–451. doi:10.1378/chest.96.3.449 [pubmed]
+- West JB, Dollery CT, Naimark A. Distribution of blood flow in isolated lung; relation to vascular and alveolar pressures. J Appl Physiol. 1964;19:713–724. doi:10.1152/jappl.1964.19.4.713 [pubmed]
+DerangedPhysiology.com
+- Positive end-expiratory pressure (PEEP)
+- Effects of PEEP on Intrinsic PEEP
+- Effects of PEEP on increased airway resistance
+- Effects of PEEP on lung volume (especially FRC)
+- Effects of PEEP on extravascular lung water
+- Effects of PEEP on cardiovascular physiology
+- Extrathoracic effects of positive pressure ventilation
+- Indications and contraindications of PEEP
+Critical Care
+Compendium
+Chris is an Intensivist and ECMO specialist at The Alfred ICU, where he is Deputy Director (Education). He is a Clinical Adjunct Associate Professor at Monash University, the Lead for the Clinician Educator Incubator programme, and a CICM First Part Examiner.
+He is an internationally recognised Clinician Educator with a passion for helping clinicians learn and for improving the clinical performance of individuals and collectives. He was one of the founders of the FOAM movement (Free Open-Access Medical education) has been recognised for his contributions to education with awards from ANZICS, ANZAHPE, and ACEM.
+His one great achievement is being the father of three amazing children.
+On Bluesky, he is @precordialthump.bsky.social and on the site that Elon has screwed up, he is @precordialthump.
+| INTENSIVE | RAGE | Resuscitology | SMACC

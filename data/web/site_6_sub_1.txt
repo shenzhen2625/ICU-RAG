@@ -1,0 +1,58 @@
+Heliox
+| Identifiers | |
+|---|---|
+| CAS Number | |
+| PubChem CID | |
+| Chemical and physical data | |
+| Formula | He.O2 |
+| Molar mass | 36.001 |
+Heliox is a breathing gas mixture of helium (He) and oxygen (O2). It is used as a medical treatment for patients with difficulty breathing because this mixture generates less resistance than atmospheric air when passing through the airways of the lungs, and thus requires less effort by a patient to breathe in and out of the lungs. It is also used as a breathing gas for deep ambient pressure diving as it is not narcotic at high pressure, and for its low work of breathing.
+Heliox has been used medically since the 1930s, and although the medical community adopted it initially to alleviate symptoms of upper airway obstruction, its range of medical uses has since expanded greatly, mostly because of the low density of the gas.[1][2] Heliox is also used in saturation diving and sometimes during the deep phase of technical dives.[3][4][5]
+Medical uses
+[edit]There is also some use of heliox in conditions of the medium airways (croup, asthma and chronic obstructive pulmonary disease). A recent trial has suggested that lower fractions of helium (below 40%) – thus allowing a higher fraction of oxygen – might also have the same beneficial effect on upper airway obstruction.[6]
+Patients with these conditions may develop a range of symptoms including dyspnea (breathlessness), hypoxemia (below-normal oxygen content in the arterial blood) and eventually a weakening of the respiratory muscles due to exhaustion, which can lead to respiratory failure and require intubation and mechanical ventilation. Heliox may reduce all these effects, making it easier for the patient to breathe.[7] Heliox has also found utility in the weaning of patients off mechanical ventilation, and in the nebulization of inhalable drugs, particularly for the elderly.[8] Research has also indicated advantages in using helium–oxygen mixtures in delivery of anaesthesia.[9]
+Available forms
+[edit]In medicine, heliox may refer to a mixture of 21% O2 (the same as air) and 79% He, although other combinations are available (70/30 and 60/40).
+Mechanism of action
+[edit]Heliox generates less airway resistance than air and thereby requires less mechanical energy to ventilate the lungs.[10] "Work of breathing" (WOB) is reduced by two mechanisms:
+- increased tendency to laminar flow;
+- reduced resistance in turbulent flow due to lower density.
+Heliox 20/80 diffuses 1.8 times faster than oxygen, and the flow of heliox 20/80 from an oxygen flowmeter is 1.8 times the normal flow for oxygen.[11]
+Heliox has a similar viscosity to air but a significantly lower density (0.5 g/L versus 1.25 g/L at STP). Flow of gas through the airway comprises laminar flow, transitional flow and turbulent flow. The tendency for each type of flow is described by the Reynolds number. Heliox's low density produces a lower Reynolds number and hence higher probability of laminar flow for any given airway. Laminar flow tends to generate less resistance than turbulent flow.
+In the small airways where flow is laminar, resistance is proportional to gas viscosity and is not related to density and so heliox has little effect. The Hagen–Poiseuille equation describes laminar resistance. In the large airways where flow is turbulent, resistance is proportional to density, so heliox has a significant effect.
+History
+[edit]Heliox has been used medically since the early 1930s. It was the mainstay of treatment in acute asthma before the advent of bronchodilators. Currently, heliox is mainly used in conditions of large airway narrowing (upper airway obstruction from tumors or foreign bodies and vocal cord dysfunction).
+Usage in diving
+[edit]Helium diluted breathing gases are used to eliminate or reduce the effects of inert gas narcosis, and to reduce work of breathing due to increased gas density at depth. From the 1960s saturation diving physiology studies were conducted with helium from 45 to 610 m (148 to 2,001 ft) over several decades by a Hyperbaric Experimental Centre operated by the French company COMEX specializing in engineering and deep diving operations.[12] Owing to the expense of helium,[13] heliox is most likely to be used in deep saturation diving. It is also sometimes used by technical divers, particularly those using rebreathers, which conserve the breathing gas at depth much better than open circuit scuba. Use of heliox mixtures is known as heliox diving, a subs-category of mixed gas diving, also known simply as gas diving.[14]
+The proportion of oxygen in a diving mix depends on the maximum depth of the dive plan, but it is often hypoxic and may be less than 10%. Each mix is custom made using gas blending techniques, which often involve the use of booster pumps to achieve typical diving cylinder pressures of 200 to 300 bar (2,900 to 4,400 psi) from lower pressure banks of oxygen and helium cylinders.
+Because sound travels faster in heliox than in air, voice formants are raised, making divers' speech very high-pitched and hard to understand to people not used to it.[15] Surface personnel often employ a piece of communications equipment called a "helium de-scrambler", which electronically lowers the pitch of the diver's voice as it is relayed through the communications gear, making it easier to understand.
+Trimix is a less expensive alternative to heliox for deep diving, which uses only enough helium to limit narcosis and gas density to tolerable levels for the planned depth.[16] Trimix is often used in technical diving, and is also sometimes used in professional diving.
+In 2015, the United States Navy Experimental Diving Unit showed that decompression from bounce dives using trimix is not more efficient than dives on heliox.[17]
+See also
+[edit]- Argox – Gas mixture occasionally used by scuba divers for dry-suit inflation
+- Nitrox – Breathing gas, mixture of nitrogen and oxygen
+- Hydreliox – Breathing gas mixture of hydrogen, helium, and oxygen
+- Hydrox – Breathing gas mixture experimentally used for very deep diving
+- Trimix – Breathing gas consisting of oxygen, helium and nitrogen
+References
+[edit]- ^ Barach AL, Eckman M (January 1936). "The effects of inhalation of helium mixed with oxygen on the mechanics of respiration". The Journal of Clinical Investigation. 15 (1): 47–61. doi:10.1172/JCI100758. PMC 424760. PMID 16694380.
+- ^ "Heliox product information". BOC Medical. Archived from the original on 21 November 2008.
+- ^ US Navy Diving Manual, 6th revision. United States: US Naval Sea Systems Command. 2008. Archived from the original on 2008-05-02. Retrieved 2008-07-08.
+- ^ Brubakk AO, Neuman TS (2003). Bennett and Elliott's physiology and medicine of diving (5th Rev ed.). United States: Saunders Ltd. p. 800. ISBN 0-7020-2571-2.
+- ^ "COMEX PRO".
+- ^ Truebel H, Wuester S, Boehme P, Doll H, Schmiedl S, Szymanski J, et al. (May 2019). "A proof-of-concept trial of HELIOX with different fractions of helium in a human study modeling upper airway obstruction". European Journal of Applied Physiology. 119 (5): 1253–1260. doi:10.1007/s00421-019-04116-7. PMID 30850876. S2CID 71715570.
+- ^ BOC Medical. "Heliox data sheet" (PDF). Archived (PDF) from the original on 2022-10-09.
+- ^ Lee DL, Hsu CW, Lee H, Chang HW, Huang YC (September 2005). "Beneficial effects of albuterol therapy driven by heliox versus by oxygen in severe asthma exacerbation". Academic Emergency Medicine. 12 (9): 820–827. doi:10.1197/j.aem.2005.04.020. PMID 16141015.
+- ^ Buczkowski PW, Fombon FN, Russell WC, Thompson JP (November 2005). "Effects of helium on high frequency jet ventilation in model of airway stenosis". British Journal of Anaesthesia. 95 (5): 701–705. doi:10.1093/bja/aei229. PMID 16143576.
+- ^ "Heliox21". Linde Gas Therapeutics. 27 January 2009. Retrieved 13 April 2011.
+- ^ Hess DR, Fink JB, Venkataraman ST, Kim IK, Myers TR, Tano BD (June 2006). "The history and physics of heliox" (PDF). Respiratory Care. 51 (6): 608–612. PMID 16723037. Archived (PDF) from the original on 2022-10-09.
+- ^ "Extreme Environment Engineering Departement Hyperbaric Experimental Centre - History". Archived from the original on October 5, 2008. Retrieved 2009-02-22.
+- ^ "Example pricing for filling cylinders". Archived from the original on 2008-01-16. Retrieved 2008-01-10.
+- ^ Lee DW, Jung SJ, Ju JS (First Quarter 2020). "The effects of heliox non-saturation diving on the cardiovascular system and cognitive functions". Undersea & Hyperbaric Medicine. 47 (1): 93–100. doi:10.22462/01.03.2020.10. PMID 32176950.
+- ^ Ackerman MJ, Maitland G (December 1975). "Calculation of the relative speed of sound in a gas mixture". Undersea Biomedical Research. 2 (4): 305–310. PMID 1226588. Archived from the original on 2011-01-27. Retrieved 2008-07-08.
+- ^ Stone WC (1992). "The case for heliox: a matter of narcosis and economics". AquaCorps. 3 (1): 11–16.
+- ^ Doolette DJ, Gault KA, Gerth WA (2015). "Decompression from He-N2-O2 (trimix) bounce dives is not more efficient than from He-O2 (heliox) bounce dives". US Navy Experimental Diving Unit Technical Report 15-4. Archived from the original on 2017-07-07. Retrieved 2015-12-30.
+Further reading
+[edit]- Hashemian SM, Fallahian F (April 2014). "The use of heliox in critical care". International Journal of Critical Illness and Injury Science. 4 (2): 138–142. doi:10.4103/2229-5151.134153. PMC 4093964. PMID 25024941.
+External links
+[edit]- "Heliox". Drug Information Portal. U.S. National Library of Medicine. Archived from the original on January 27, 2021.

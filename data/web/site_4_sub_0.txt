@@ -1,0 +1,69 @@
+Heat and Moisture Exchanger
+Reviewed and revised 5 August 2015
+OVERVIEW
+- Heat and Moisture Exchanger (HME)
+- those in current use are generally combined with a microbiological filter, hence they are called HME filters (HMEF)
+- when passive humidification using an HME is use, the circuit is termed a “dry circuit” as a opposed to a “wet circuit” using active humidification
+USES
+- humidification, warming inspired gases and microbiological filtration
+- best used in patients with few secretions, who are not hypothermic, do not have large air leaks and do not have high airway resistance
+DESCRIPTION
+- Generally contains a layer of foam or paper embedded with a hydroscopic salt such as calcium chloride
+- Bacterial and viral filters ideally have filtration efficiency of >99.9%
+- HME with humidification efficiency >30mg.H2O/L
+- connects to a standard 15mm connector on an endotracheal tube
+METHOD OF INSERTION AND/OR USE
+- placed in line between Y-piece of breathing circuit and ETT
+OTHER INFORMATION
+Benefits
+- ease of use
+- light
+- can retain their ability to humidify for up to 4 days with minimal change in resistance
+- less cumbersome during transport
+- lower staff workload
+- lower costs
+- decreases ventilatory acquired pneumonia (Kola et al, 2005)
+Mechanism of heating and humidification
+- contains a layer of foam or paper embedded with a hygroscopic salt such as calcium chloride
+- expired gas cools as it crosses the membrane, resulting in condensation and release of the mass enthalpy of vaporisation to the HME layer
+- on inspiration absorbed heat evaporates the condensate and warms the gas, the hygroscopic salt releases water molecules when the vapor pressure is low
+- warming and humidification is thus regulated by the moisture content of the expired gas and patient’s core temperature
+- a filter layer is also present, either an electrostatically charged or a pleated hydrophobic layer, the latter helps return moisture to the gas as condensation and evaporation occurs between the pleats
+Mechanism of filtration
+- Filtration is achieved for larger particles (>0.3 µm) by inertial impaction and interception
+- Smaller particles(<0.3 µm) are captured by Brownian diffusion
+COMPLICATIONS/DISADVANTAGES
+- inability to use with all patients (haemoptysis, tenacious secretions)
+- increased airways resistance
+- increased dead space
+- potential for unrecognized airway obstruction if filter blocks
+- less than full humidification and body temperature
+- drying of secretions
+- not appropriate for patients with large air leaks (e.g. bronchopleural fistulae) due extensive loss of inspired gas and inability to conserve heat and humidity
+References and Links
+CCC Ventilation Series
+Modes: Adaptive Support Ventilation (ASV), Airway Pressure Release Ventilation (APRV), High Frequency Oscillation Ventilation (HFOV), High Frequency Ventilation (HFV), Modes of ventilation, Non-Invasive Ventilation (NIV), Spontaneous breathing and mechanical ventilation
+Conditions: Acute Respiratory Distress Syndrome (ARDS), ARDS Definitions, ARDS Literature Summaries, Asthma, Bronchopleural Fistula, Burns, Oxygenation and Ventilation, COPD, Haemoptysis, Improving Oxygenation in ARDS, NIV and Asthma, NIV and the Critically Ill, Ventilator Induced Lung Injury (VILI), Volutrauma
+Strategies: ARDSnet Ventilation, Open lung approach, Oxygen Saturation Targets, Protective Lung Ventilation, Recruitment manoeuvres in ARDS, Sedation pauses, Selective Lung Ventilation
+Adjuncts: Adjunctive Respiratory Therapies, ECMO Overview, Heliox, Neuromuscular blockade in ARDS, Prone positioning and Mechanical Ventilation
+Situations: Cuff leak, Difficulty weaning, High Airway Pressures, Post-Intubation Care, Post-intubation hypoxia
+Troubleshooting: Autotriggering of the ventilator, High airway and alveolar pressures / pressure alarm, Ventilator Dyssynchrony
+Investigation / Indices: A-a gradient, Capnography and waveforms, Electrical Impedance Tomography, Indices that predict difficult weaning, PaO2/FiO2 Ratio (PF), Transpulmonary pressure (TPP)
+Extubation: Cuff Leak Test, Extubation Assessment in ED, Extubation Assessment in ICU, NIV for weaning, Post-Extubation Stridor, Spontaneous breathing trial, Unplanned extubation, Weaning from mechanical ventilation
+Core Knowledge: Basics of Mechanical Ventilation, Driving Pressure, Dynamic pressure-volume loops, flow versus time graph, flow volume loops, Indications and complications, Intrinsic PEEP (autoPEEP), Oxygen Haemoglobin Dissociation Curve, Positive End Expiratory Pressure (PEEP), Pulmonary Mechanics, Pressure Vs Time Graph, Pressure vs Volume Loop, Setting up a ventilator, Ventilator waveform analysis, Volume vs time graph
+Equipment: Capnography and CO2 Detector, Heat and Moisture Exchanger (HME), Ideal helicopter ventilator, Wet Circuit
+MISC: Sedation in ICU, Ventilation literature summaries
+Journal articles and textbooks
+- Kelly M, Gillies D, Todd DA, Lockwood C. Heated humidification versus heat and moisture exchangers for ventilated adults and children. Anesth Analg. 2010 Oct;111(4):1072. Review. [pubmed] [free full text pdf]
+- Kola A, Eckmanns T, Gastmeier P. Efficacy of heat and moisture exchangers in preventing ventilator-associated pneumonia: meta-analysis of randomized controlled trials. Intensive Care Med. 2005 Jan;31(1):5-11. [pubmed]
+- Lawes EG. Hidden hazards and dangers associated with the use of HME/filters in breathing circuits. Their effect on toxic metabolite production, pulse oximetry and airway resistance. Br J Anaesth. 2003;91:(2)249-64. [pubmed]
+- Lorente L, Lecuona M, Jiménez A, Mora ML, Sierra A. Ventilator-associated pneumonia using a heated humidifier or a heat and moisture exchanger: a randomized controlled trial [ISRCTN88724583]. Crit Care. 2006;10(4):R116. PMC1750976.
+- Wilkes AR. Heat and moisture exchangers and breathing system filters: their use in anaesthesia and intensive care. Part 1 – history, principles and efficiency. Anaesthesia. 2011;66:(1)31-9. [pubmed]
+- Wilkes AR. Heat and moisture exchangers and breathing system filters: their use in anaesthesia and intensive care. Part 2 – practical use, including problems, and their use with paediatric patients. Anaesthesia. 2011;66:(1)40-51. [pubmed]
+Critical Care
+Compendium
+Chris is an Intensivist and ECMO specialist at The Alfred ICU, where he is Deputy Director (Education). He is a Clinical Adjunct Associate Professor at Monash University, the Lead for the Clinician Educator Incubator programme, and a CICM First Part Examiner.
+He is an internationally recognised Clinician Educator with a passion for helping clinicians learn and for improving the clinical performance of individuals and collectives. He was one of the founders of the FOAM movement (Free Open-Access Medical education) has been recognised for his contributions to education with awards from ANZICS, ANZAHPE, and ACEM.
+His one great achievement is being the father of three amazing children.
+On Bluesky, he is @precordialthump.bsky.social and on the site that Elon has screwed up, he is @precordialthump.
+| INTENSIVE | RAGE | Resuscitology | SMACC

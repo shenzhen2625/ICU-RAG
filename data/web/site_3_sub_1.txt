@@ -1,0 +1,240 @@
+ECG Library
+ECG Library Content
+- ECG Basics – Waves, Intervals, Segments and Clinical Interpretation
+- ECG A to Z by diagnosis – ECG interpretation in clinical context
+- Top 100 ECG – Clinical cases and self assessment quiz
+- Activate or Wait – To the cath lab or not? Clinical cases
+- ECG Exigency and Cardiovascular Curveball – ECG Clinical Cases
+- ECG Resources and References
+- ECG Exam Template – Framework to answer ECG exam questions
+- Top 20 Online ECG Courses
+| Topic | Title | ||
+|---|---|---|---|
+| ECG Lectures | ECG interpretation lectures - the basics | lecture, ecg, basics, interpretation | |
+| ECG Diagnosis | OMI: Replacing the STEMI misnomer | OMI, NOMI, STEMI, Occlusion Myocardial Infarction | |
+| ECG Diagnosis | Bundgaard syndrome | Familial ST-segment depression syndrome | |
+| ECG Diagnosis | Aslanger Pattern | OMI, NOMI, STEMI, Occlusion Myocardial Infarction | |
+| ECG Diagnosis | Masquerading Bundle Branch Block (MBBB) | LBBB, RBBB, CHB | |
+| ECG Exigency | LMCA, Left Main Coronary Artery Occlusion, ST elevation in aVR | ||
+| ECG Eponym | Hay Block (1906) - (Mobitz II AV Block) | ECG, Mobitz AV Block, Mobitz Type II, 2nd degree AV block, atrioventricular block | |
+| ECG Eponym | Mobitz Classification of Second degree Atrioventricular Block (1924) | ECG, Mobitz AV Block2nd degree AV block, atrioventricular block | |
+| ECG Eponym | Romano-Ward Syndrome (1963) | ECG Syndrome, Congenital (autosomal dominant) long QT syndrome (LQTS) | |
+| ECG Eponym | ECG Syndrome, JLNS, Congenital (autosomal recessive) long QT syndrome (LQTS) bilateral sensorineural hearing loss | ||
+| ECG Eponym | ECG Syndrome, short P-R, PR interval, paroxysmal tachycardia, pre-excitation, preexcitation | ||
+| ECG Eponym | Bornholm disease (1930) | Chest Pain, acute, transient viral myositis associated with Coxsackievirus B. Epidemic Myalgia, pleurodynia | |
+| ECG Eponym | Chest Pain, Soldiers heart, cardiac neurosis, neurocirculatory asthenia | ||
+| ECG Exigency | VT, BCT, WCT, Brugada criteria, Verekie | ||
+| ECG Exigency | severe hypokalaemia, spironalactone, rhabdomyolysis, ECG, u wave, diabetic ketoacidosis | ||
+| ECG Exigency | pacing, pacemaker, post-op, Mobitz I, Wenckebach, AV block | ||
+| ECG Exigency | bidirectional ventricular tachycardia, Catecholaminergic Polymorphic Ventricular Tachycardia, CPVT, digoxin toxicity | ||
+| ECG Exigency | congenital, short QT syndrome, SQTS, AF, Atrial fibrillation | ||
+| ECG Exigency | RVOT, broad complex tachycardia, BCT, Right Ventricular Outflow Tract Tachycardia, VF, Arrest, Arrhythmogenic Right Ventricular Cardiomyopathy, ARVC | ||
+| ECG Exigency | NSTEMI, inverted U wave, | ||
+| ECG Exigency | tricyclic antidepressant, TCA, Doxepin, QRS broadening, cardiotoxic | ||
+| ECG Exigency | AIVR, Accelerated idioventricular rhythm, Isorhythmic AV dissociation, Sinus arrhythmia, idioventricular | ||
+| ECG Exigency | LAD, LBBB, High left ventricular voltage, HLVV, WPW, Broad Complex Tachycardia | ||
+| ECG Exigency | tachy-brady, AVNRT, flutter, polymorphic VT, VF, torsades de pointes, R on T, Cardioversion | ||
+| ECG Exigency | LBBB, Wellens, ECG, proximal LAD, occlusion, rate-dependent, inferior ischaemia | ||
+| ECG Exigency | SI QIII TIII, PE, PTE pulmonary embolism, PEA arrest, RBBB, LAD | ||
+| Curveball | HOCM, STE, aVR, LMCA, torsades des pointes. TDP | ||
+| Curveball | aortic arch, right sided, diverticulum of Kommerell | ||
+| Curveball | IABP, CABG, shock, circulatory collapse | ||
+| Curveball | electrical alternans, ECG, pulsus paradoxus | ||
+| Curveball | Intra-aortic Balloon Pump, Waveform, dicrotic notch | ||
+| Curveball | DeBakey, TAA, aortic dissection, CTA | ||
+| Curveball | Tetraology of Fallot, BT shunt, Blalock-Tausig, ToF | ||
+| Curveball | Pulmonary Embolism, PTE, PE, McConnell, thrombolysis, echo | ||
+| ECG Exigency | LMCA Stenosis, ST elevation in aVR, Left Main Coronary Artery | ||
+| ECG Exigency | anterior AMI, De Winter T waves, LAD stenosis | ||
+| ECG Exigency | dual chamber AV sequential pacemaker | ||
+| ECG Basics | Rate, estimate, 25 mm/s, 50 mm/s, 10 mm/s, | ||
+| ECG Basics | ECG Rhythm interpretation, 7 step approach | ||
+| ECG Basics | ECG Axis hexaxial, SUPER SAM, isoelectric lead, quadrant, | ||
+| ECG Basics | 3 lead, 5 lead, 12 lead, electrodes, lead placement | ||
+| ECG Basics | Template, presentation, formulation, exam, answer | ||
+| ECG Basics | p-wave, positive deflection, Atrial depolarisation | ||
+| ECG Basics | pathological, stemi | ||
+| ECG Basics | Dominant R wave in aVR | ||
+| ECG Basics | camel hump, biphasic, Peaked, Hyperacute, Inverted, Flattened t-waves | ||
+| ECG Basics | NSTEMI, Prinzmetal, Unstable, Inverted, quinidine, hypokalaemia, bradycardia, Prominent U waves | ||
+| ECG Basics | osborn wave, camel hump sign of Osborn, hypothermic hump, late delta wave, hathook junction, J wave, H wave, K wave | ||
+| ECG Basics | WPE, Pre-Excitation Syndrome | ||
+| ECG Basics | Epsilon wave, arrhythmogenic right ventricular dysplasia (ARVD), Prolonged S-wave upstroke | ||
+| ECG Basics | PR Interval, Prolonged PR | ||
+| ECG Basics | P-R Segment, pericarditis, atrial ischaemia, PR-segment depression, TP segment | ||
+| ECG Basics | QT Interval, SQTS, LQTS, Segment, Q-T | ||
+| ECG Basics | STEMI, ST depression, ST elevation, | ||
+| ECG Basics | Interval J-Point, | ||
+| ECG Basics | Interval QRS, broad, narrow | ||
+| ECG Anatomy | Left Atrial Enlargement, LAE, Left atrial hypertrophy, LAH, left atrial abnormality, bifid P wave, mitrale | ||
+| ECG Anatomy | Right Atrial Enlargement, RAE, Right atrial hypertrophy, RAH, right atrial abnormality, p pulmonale | ||
+| ECG Anatomy | RAH LAH RAE LAE atrial hypertrophy | ||
+| ECG Basics | Conduction block differential | ||
+| ECG Basics | ECG Differential Diagnosis | ||
+| ECG Basics | SVT versus VT, SVT vs VT, VT vs SVT, Ventricular tachycardia vs supraventricular tachycardia with aberrancy | ||
+| ECG Basics | Myocardial infarction, localization, MI, STEMI | ||
+| ECG Basics | Pediatric paeds, pediat | ||
+| ECG Diagnosis | Accelerated Ventricular Rhythm, Isorhythmic AV dissociation, fusion, capture beat, interference-dissociation | ||
+| ECG Diagnosis | Accelerated Junctional Rhythm | ||
+| ECG Diagnosis | AMI, STEMI, Anterior, Anterolateral, Tombstone, Ostial LAD, septal STEMI | ||
+| ECG Diagnosis | Arrhythmogenic Right Ventricular Dysplasia, ARVD, Naxos Disease | ||
+| ECG Diagnosis | Atrial Flutter | ||
+| ECG Diagnosis | PAF, AF, lone | ||
+| ECG Diagnosis | Atrial ectopics, atrial extrasystoles, atrial premature beats, atrial premature depolarisations | ||
+| ECG Diagnosis | Atrial Tachycardia, Paroxysmal Atrial Tachycardia, PAT, AT | ||
+| ECG Diagnosis | first Degree AV block, lengthen, long, PR interval | ||
+| ECG Diagnosis | AV block, second degree, 2nd, Mobitz 1, Wenkebach | ||
+| ECG Diagnosis | Block: Mobitz 2 Hay | ||
+| ECG Diagnosis | 3:1, 4:1, 2:1 AV Block | ||
+| ECG Diagnosis | 2nd degree AV block, 2nd degree heart block, Second degree AV block, 4:1 AV block | ||
+| ECG Diagnosis | CHB, 3rd degree AV block, Third degree heart block | ||
+| ECG Diagnosis | Supraventricular Tachycardia (SVT) | ||
+| ECG Diagnosis | AVNRT (AV-nodal re-entry tachycardia) | ||
+| ECG Diagnosis | WPW, Wolff,Parkinson, White, LGL, Lown Ganong Levine, AVRT | ||
+| ECG Diagnosis | Atrial fibrillation/flutter in pre-excitation | WPW, Wolff,Parkinson, White, LGL, Lown Ganong Levine, AVRT | |
+| ECG Diagnosis | AVRT (atrioventricular re-entry tachycardia), orthodromic, antidromic | ||
+| ECG Diagnosis | BER, J point elevation | ||
+| ECG Toxicology | beta-blocker overdose, betablocker overdose, calcium channel toxicity, sodium channel blockade | ||
+| ECG Toxicology | beta-blocker overdose, betablocker overdose, calcium channel toxicity, sodium channel blockade | ||
+| ECG Diagnosis | CPVT, VT, digoxin, aconite, BVT | ||
+| ECG Diagnosis | Bifascicular Block, RBBB + LAFB, LPFB | ||
+| ECG Diagnosis | Biventricular Hypertrophy, Katz-Wachtel phenomenon | ||
+| ECG Eponym | SCD, cardiac arrest | ||
+| ECG Toxicology | Carbamazepine Cardiotoxicity | ||
+| ECG Diagnosis | HCM, HOCM, DCM, CM | ||
+| ECG Diagnosis | HCM, HOCM, IHSS, Hypertrophic obstructive cardiomyopathy, idiopathic hypertrophic subaortic stenosis | ||
+| ECG Diagnosis | Restrictive Cardiomyopathy RCM low voltage QRS | ||
+| ECG Diagnosis | CLD, COPD, CAL | ||
+| ECG Eponym | STEMI, wave, T-wave, infarction, anterior STEMI equivalent, peaked T waves | ||
+| ECG Diagnosis | Kartagener, situs inversus | ||
+| ECG Toxicology | Digoxin Effect, Salvador Dali moustache, ST depression, Shortened QT interval | ||
+| ECG Toxicology | Digoxin Toxicity | ||
+| ECG Diagnosis | Electrical alternans, pericardial effusion | ||
+| ECG Diagnosis | Junctional Escape Rhythm | ||
+| ECG Diagnosis | Idioventricular escape rhythm | ||
+| ECG Diagnosis | Fascicular tachycardia, Belhassen-type VT, verapamil-sensitive VT or infrafascicular tachycardia | ||
+| ECG Diagnosis | Fusion Beats (Dressler), VT, ventricular tachycardia | ||
+| ECG Diagnosis | Electrolyte: Hypercalcemia | ||
+| ECG Diagnosis | sine wave, Hyperkalaemia | ||
+| ECG Diagnosis | Thyroid, high left ventricular voltage, HLVV, | ||
+| ECG Diagnosis | Hypocalcemia, calcium, prolonged QT, QTc | ||
+| ECG Diagnosis | Hypokalaemia, u wave, TDP | ||
+| ECG Diagnosis | Hypomagnasaemia, magnesium, MG2+ | ||
+| ECG Diagnosis | Hypothermia, temperaturre, environmental, osborn wave, shivering | ||
+| ECG Diagnosis | thyroid, low QRS voltage | ||
+| ECG Diagnosis | QRS widening, broad wide QRS | ||
+| ECG Diagnosis | Raised Intracranial Pressure, ICP, SAH, subarachnoid | ||
+| ECG Diagnosis | RBBB, LAFB, SVT vs VT | ||
+| ECG Diagnosis | Junctional Ectopics, Junctional Extrasystoles, Junctional Premature Beats, Junctional Premature Depolarisations | ||
+| ECG Diagnosis | STEMI | ||
+| ECG Diagnosis | ECG Limb Lead Reversal | ||
+| ECG Diagnosis | Upper Limb Lead reversal | ||
+| ECG Diagnosis | LAFB, left anterior hemiblock, left anterior hemi-block | ||
+| ECG Diagnosis | Left Axis Deviation, LAD | ||
+| ECG Diagnosis | William Morrow, | ||
+| ECG Diagnosis | LBBB STEMI | ||
+| ECG Diagnosis | AMI, STEMI, LMCA | ||
+| ECG Diagnosis | RAD, qR complex, rS complex, R wave peak time | ||
+| ECG Diagnosis | Left Ventricular Aneursym | ||
+| ECG Diagnosis | LVH | ||
+| ECG Diagnosis | Low QRS voltage | ||
+| ECG Diagnosis | ECG Motion Artefacts, shiver, hypothermia, CPR, precordial thump | ||
+| ECG Diagnosis | Multifocal Atrial Tachycardia, Chaotic atrial tachycardia | ||
+| ECG Diagnosis | Myocardial Ischaemia, ischemia | ||
+| ECG Diagnosis | Myocarditis, myopericarditis | ||
+| ECG Diagnosis | Pacemaker Rhythms | ||
+| ECG Diagnosis | Pacemaker Malfunction | ||
+| ECG Diagnosis | Pericarditis | ||
+| ECG Diagnosis | Polymorphic VT, ventricular tachycardia, VT, torsades des pointes, tdp, | ||
+| ECG Diagnosis | Poor R Wave Progression, PRWP | ||
+| ECG Diagnosis | Posterior MI, ST depression, flip V2, precordial depression, deep q | ||
+| ECG Diagnosis | ventricular ectopics, ventricular extrasystoles, ventricular premature beats, ventricular premature depolarisations. | ||
+| ECG Diagnosis | Pulmonary Embolism, PE, PTE | ||
+| ECG Toxicology | sinus tachycardia, Prolonged QTc interval | ||
+| ECG Diagnosis | Right Axis Deviation, RAD | ||
+| ECG Diagnosis | William Morrow, RSR’ pattern, Wide slurred S wave | ||
+| ECG Diagnosis | RVH | ||
+| ECG Diagnosis | Myocardial infraction, AMI, STEMI, RV, RVI, Right sided leads, V4r, V1-6r | ||
+| ECG Diagnosis | Idiopathic VT, Arrhythmogenic Right Ventricular Dysplasia, RVOT, ARVD, ARVC | ||
+| ECG Diagnosis | Right Ventricular Strain, RVS, RVH, PE, PTE, ARVC | ||
+| ECG Diagnosis | Short QT Syndrome SQTS | ||
+| ECG Basics | NSR | ||
+| ECG Basics | Sinus Arrhythmia | ||
+| ECG Diagnosis | Sinus Bradycardia | ||
+| ECG Diagnosis | Sinus Node Dysfunction (Sick Sinus Syndrome) | Sinus Node Dysfunction (Sick Sinus Syndrome) sss | |
+| ECG Diagnosis | Sinoatrial Exit Block | ||
+| ECG Diagnosis | camel hump, >100 bpm | ||
+| ECG Toxicology | Overdose: TCA, tricyclic, sodium channel blockade, dominant R avR | ||
+| ECG Diagnosis | Anterior STEMI, anterolateral, anteroseptal, tombstones | ||
+| ECG Diagnosis | STEMI, AMI, lateral, reciprocal ST depression, T wave inversion, diagonal branch (D1), South African Flag sign | ||
+| ECG Diagnosis | STEMI, tombstones, lateral reciprocal, AMI, dominant right coronary artery, RCA, LCx, dominant left circumflex artery | ||
+| ECG Diagnosis | broken heart syndrome, octopus pot, Transient akinesis, apical akinesia, Cathecholamine Surge | ||
+| ECG Diagnosis | Block: Trifascicular Block | ||
+| ECG Diagnosis | VF, shockable cardiac arrest rhythm, irregular electrical activity, quivering, Chaotic, coarse, fine | ||
+| ECG Diagnosis | Extreme Ventricular tachycardia, Sine Wave, identical upside down | ||
+| ECG Diagnosis | VT, monomorphic, fusion, captire, wide complex, tachyarrhythmia, Josephson | ||
+| ECG Diagnosis | biphasic T wave, V2-3, critical stenosis, left anterior descending artery, LAD | ||
+| Blog Post | WPW, Pre-Excitation Syndrome | ||
+| ECG Eponym | Bazett's formula, QT interval, QTc | ||
+| ECG Eponym | Osborn Wave (1953) - [OSBORN, John J] | camel hump sign of Osborn, hypothermic hump, late delta wave, hathook junction, J wave, H wave, K wave | |
+| ECG Eponym | QT interval, QTc | ||
+| ECG Eponym | First ECG in a human 1887 - WALLER, Augustus Desiré | ECG, Jimmy the dog | |
+| ECG Exigency | Wenckebach, AV block, SA, deliberate mistake, SA block | ||
+| ECG Eponym | Luciani period (1873) - LUCIANI, Luigi | Group beating, second degree, AV block 2nd degree | |
+| ECG Eponym | Demonstrated AV block in humans (1873) - GALABIN, Alfred Lewis | ECG, Mobitz AV Block, Mobitz, 2nd degree AV block, atrioventricular block, apexcardiogram | |
+| ECG Eponym | Wenckebach Phenomenon (1898) - (WENCKEBACH, Karel Frederik) | ECG, Mobitz AV Block, Mobitz Type I, 2nd degree AV block, atrioventricular block, wenkebach | |
+| ECG Diagnosis | QT prolong, QTc, toxicology | ||
+| ECG Eponym | Lown–Ganong–Levine syndrome (1952) [LOWN, Bernard] [GANONG JR, William Francis] [LEVINE, Samuel Albert] | ECG Syndrome, LGL, AVRT, pre-excitation, accessory conduction pathway, short PR interval | |
+| Eponym Murmur | Gibson murmur (1906) [GIBSON, George Alexander] | Murmur, machinery murmur, second left interspace, patent ductus arteriosus, PDA | |
+| Eponym Murmur | Key-Hodgkin murmur (1827) [KEY] [HODGKIN] | Murmur, diastolic murmur, aortic regurgitation, saw cutting through wood | |
+| Eponym Murmur | Murmur, mid-diastolic murmur of acute rheumatic mitral valvulitis diastolic | ||
+| Eponym Murmur | Bruit de Roger (1879) [ROGER, Henri-Louis] | Murmur. VSD, ventricular septal defects | |
+| Eponym Murmur | Still's murmur (1909) [STILL, Sir George Frederic] | Murmur, juvenile idiopathic arthritis, vibratory murmur, physiological bruit, benign functional | |
+| Eponym Murmur | Cabot–Locke murmur (1903) | Murmur, early diastolic murmur, untreated anaemia | |
+| Eponym Murmur | Murmur, mid-diastolic murmur of acute rheumatic mitral valvulitis diastolic | ||
+| Eponym Murmur | Dock's murmur (1967) | Murmur, Early diastolic murmur, severe stenosis of the left anterior descending coronary artery | |
+| Eponym Murmur | Graham Steell Murmur (1888) | Murmur, high pitched early diastolic murmur, pulmonary incompetence, pulmonary hypertension | |
+| Eponym Murmur | Austin Flint Murmur (1862) | Murmur, mid-diastolic aortic regurgitant murmur heard at the apex | |
+| Eponym Murmur | TR, TS, Accentuation, tricuspid stenosis, tricuspid regurgitation | ||
+| ECG Eponym | Lenègre-Lev disease (1964) | Acquired CHB, complete heart block | |
+| ECG Eponym | Sgarbossa criteria (1996) | LBBB, STEMI, rule, criteria | |
+| ECG Eponym | Ashman Phenomenon (1947) | atrial fibrillation, RBBB extra beat, long-short RR | |
+| ECG Eponym | Katz-Wachtel phenomenon (1937) | BVH, Combined ventricular hypertrophy in infancy, pediatric, VSD, TGA | |
+| ECG Eponym | Lewis lead (1913) - LEWIS, Thomas | Lewis Lead, ECG, PQRST | |
+| ECG Eponym | Epsilon wave; ARVD; Fontaine ECG leads in 1977 by FONTAINE, Guy Hughes | ARVD, ARVC, epsilon wave, F-ECG, bipolar precordial leads, Fontaine leads |
+ECG Library Function
+LITFL ECG library is a free educational resource covering over 100 ECG topics relevant to Emergency Medicine and Critical Care. All our ECGs are free to reproduce for educational purposes, provided:
+- The image is credited to litfl.com.
+- The teaching activity is on a not-for-profit basis.
+- The image is not otherwise labelled as belonging to a third-party.
+We welcome constructive feedback and input from experts in the field, so please feel free to contact us if you have any:
+- High quality ECG examples or interesting cases to contribute.
+- Suggestions for new topics to include.
+- Suggestions for ways to improve or update the content of current topics.
+Advanced Reading
+Online
+- Wiesbauer F, Kühn P. ECG Mastery: Yellow Belt online course. Understand ECG basics. Medmastery
+- Wiesbauer F, Kühn P. ECG Mastery: Blue Belt online course: Become an ECG expert. Medmastery
+- Kühn P, Houghton A. ECG Mastery: Black Belt Workshop. Advanced ECG interpretation. Medmastery
+- Rawshani A. Clinical ECG Interpretation ECG Waves
+- Smith SW. Dr Smith’s ECG blog.
+- Wiesbauer F. Little Black Book of ECG Secrets. Medmastery PDF
+Textbooks
+- Zimmerman FH. ECG Core Curriculum. 2023
+- Mattu A, Berberian J, Brady WJ. Emergency ECGs: Case-Based Review and Interpretations, 2022
+- Straus DG, Schocken DD. Marriott’s Practical Electrocardiography 13e, 2021
+- Brady WJ, Lipinski MJ et al. Electrocardiogram in Clinical Medicine. 1e, 2020
+- Mattu A, Tabas JA, Brady WJ. Electrocardiography in Emergency, Acute, and Critical Care. 2e, 2019
+- Hampton J, Adlam D. The ECG Made Practical 7e, 2019
+- Kühn P, Lang C, Wiesbauer F. ECG Mastery: The Simplest Way to Learn the ECG. 2015
+- Grauer K. ECG Pocket Brain (Expanded) 6e, 2014
+- Surawicz B, Knilans T. Chou’s Electrocardiography in Clinical Practice: Adult and Pediatric 6e, 2008
+- Chan TC. ECG in Emergency Medicine and Acute Care 1e, 2004
+LITFL Further Reading
+- ECG Library Basics – Waves, Intervals, Segments and Clinical Interpretation
+- ECG A to Z by diagnosis – ECG interpretation in clinical context
+- ECG Exigency and Cardiovascular Curveball – ECG Clinical Cases
+- 100 ECG Quiz – Self-assessment tool for examination practice
+- ECG Reference SITES and BOOKS – the best of the rest
+ECG LIBRARY
+BA MA (Oxon) MBChB (Edin) FACEM FFSEM. Emergency physician, Sir Charles Gairdner Hospital. Passion for rugby; medical history; medical education; and asynchronous learning #FOAMed evangelist. Co-founder and CTO of Life in the Fast lane | On Call: Principles and Protocol 4e| Eponyms | Books |

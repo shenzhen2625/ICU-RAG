@@ -1,0 +1,56 @@
+Pressure vs Volume Loop
+OVERVIEW
+Pressure vs Volume Loop: graphical representation of relationship between pressure and volume during inspiration and expiration. Spontaneous breaths go clockwise and positive pressure go counter clockwise
+- in pressure control or PS loop is almost square because of pressure limiting during inspiration
+- can be measured as a dynamic or static technique and requires paralysis
+- dynamic: requires a square inspiratory wave form to interpret – constant flow and no inspiratory pause
+- static: measures of pressure with small incremental in volume
+Information gathered
+- bottom of loop is either 0 or PEEP level
+- top of loop = PIP
+- compliance (imaginary line between start of inspiration and expiration)
+-> increased compliance: left shift (emphysema)
+-> decreased compliance: right shift (ARDS)
+-> total compliance = TV/end-inspiratory pause pressure-PEEP
+- lower inflection point on inspiratory limb = place where there is a sudden increase in compliance (set PEEP here to maintain FRC)
+- upper inflection point = maximum setting for peak airway pressure
+- pig tail at the bottom indicates patient triggering (bigger the pig tail, higher the WOB to trigger breath)
+COMMON ABNORMALITIES
+Compliance assessment
+- right shifted curve
+- decreased volume for pressure change
+WOB
+- line drawn down middle of loop
+- on inspiration (area to right side of line)
+- on expiration (area to left side of line)
+‘Beak’ or ‘duckbill’
+- increase in airway pressure without any appreciable increase in volume
+Leaks or Air Trapping
+- loop won’t meet the bottom
+CONTROVERSIES
+Lower Inflection Point
+- change in slope at the lower end of the inspiratory curve -> recruitment of all/most/some of the collapsed and recruitable alveoli -> helps at setting PEEP
+- these assumption has been questioned because there are many limitations to this approach: recent ventilation history, variability due to underlying lung disease, presence of decreased compliance of the abdominal and chest wall, the greater importance of the expiratory component of the curve.
+Upper Inflection Point
+- has been proposed as a way of detecting overdistention of the lung
+- this is too simplistic for many reasons: other parts of lung are already distended prior to reaching this point (CT studies)
+References and Links
+CCC Ventilation Series
+Modes: Adaptive Support Ventilation (ASV), Airway Pressure Release Ventilation (APRV), High Frequency Oscillation Ventilation (HFOV), High Frequency Ventilation (HFV), Modes of ventilation, Non-Invasive Ventilation (NIV), Spontaneous breathing and mechanical ventilation
+Conditions: Acute Respiratory Distress Syndrome (ARDS), ARDS Definitions, ARDS Literature Summaries, Asthma, Bronchopleural Fistula, Burns, Oxygenation and Ventilation, COPD, Haemoptysis, Improving Oxygenation in ARDS, NIV and Asthma, NIV and the Critically Ill, Ventilator Induced Lung Injury (VILI), Volutrauma
+Strategies: ARDSnet Ventilation, Open lung approach, Oxygen Saturation Targets, Protective Lung Ventilation, Recruitment manoeuvres in ARDS, Sedation pauses, Selective Lung Ventilation
+Adjuncts: Adjunctive Respiratory Therapies, ECMO Overview, Heliox, Neuromuscular blockade in ARDS, Prone positioning and Mechanical Ventilation
+Situations: Cuff leak, Difficulty weaning, High Airway Pressures, Post-Intubation Care, Post-intubation hypoxia
+Troubleshooting: Autotriggering of the ventilator, High airway and alveolar pressures / pressure alarm, Ventilator Dyssynchrony
+Investigation / Indices: A-a gradient, Capnography and waveforms, Electrical Impedance Tomography, Indices that predict difficult weaning, PaO2/FiO2 Ratio (PF), Transpulmonary pressure (TPP)
+Extubation: Cuff Leak Test, Extubation Assessment in ED, Extubation Assessment in ICU, NIV for weaning, Post-Extubation Stridor, Spontaneous breathing trial, Unplanned extubation, Weaning from mechanical ventilation
+Core Knowledge: Basics of Mechanical Ventilation, Driving Pressure, Dynamic pressure-volume loops, flow versus time graph, flow volume loops, Indications and complications, Intrinsic PEEP (autoPEEP), Oxygen Haemoglobin Dissociation Curve, Positive End Expiratory Pressure (PEEP), Pulmonary Mechanics, Pressure Vs Time Graph, Pressure vs Volume Loop, Setting up a ventilator, Ventilator waveform analysis, Volume vs time graph
+Equipment: Capnography and CO2 Detector, Heat and Moisture Exchanger (HME), Ideal helicopter ventilator, Wet Circuit
+MISC: Sedation in ICU, Ventilation literature summaries
+Critical Care
+Compendium
+Chris is an Intensivist and ECMO specialist at The Alfred ICU, where he is Deputy Director (Education). He is a Clinical Adjunct Associate Professor at Monash University, the Lead for the Clinician Educator Incubator programme, and a CICM First Part Examiner.
+He is an internationally recognised Clinician Educator with a passion for helping clinicians learn and for improving the clinical performance of individuals and collectives. He was one of the founders of the FOAM movement (Free Open-Access Medical education) has been recognised for his contributions to education with awards from ANZICS, ANZAHPE, and ACEM.
+His one great achievement is being the father of three amazing children.
+On Bluesky, he is @precordialthump.bsky.social and on the site that Elon has screwed up, he is @precordialthump.
+| INTENSIVE | RAGE | Resuscitology | SMACC

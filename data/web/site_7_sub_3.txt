@@ -1,0 +1,40 @@
+Individual Contributors and Editors
+MDCalc's contributors author the content accompanying clinical decision support tools, which provide guidance on:
+1. When to use the clinical decision support tool
+2. What are the advantages and limitations clinicians should be aware of when using the tool
+3. Why the tool is important or different than others that may be available
+4. What the next steps clinicians can consider taking after calculating the score
+5. Evidence Appraisal of available literature
+MDCalc relies on its contributor and editorial network to generate content, review and test tools, provide product and usability feedback, and more - ensuring that all tools meet the MDCalc standard.
+Medical Societies
+MDCalc partners with medical societies to bring their research and guidance to the point-of-care.
+Research Teams
+MDCalc partners with research teams to transform their academic findings into digital point-of-care clinical tools.
+ACEP ED COVID Management Tool - Launched in the early stage of the pandemic, this tool was created by the American College of Emergency Physicians (ACEP) to help determine appropriate management and disposition for COVID-19 patients who are being evaluated in the emergency department. Our team worked closely with Dr. Brian Fengler and the ACEP COVID Workgroup to update our tool as the workgroup released new clinical recommendations.
+Brief Resolved Unexplained Events 2.0 (BRUE 2.0) Criteria for Infants - In 2016, the American Academy of Pediatrics recommended a terminology change in clinical practice from Apparent Life Threatening Events (ALTE) to Brief Resolved Unexplained Events (BRUE) when classifying certain clinical events in infants. MDCalc worked with Dr. Joel Tieder and team for both the initial and revised BRUE criteria to ensure clinicians had access to the most updated information.
+Precision Medicine for Cardiomyopathy (PRIMaCY) Score - Launched in 2023, the PRIMaCY score predicts sudden cardiac death (SCD) risk in pediatric patients with hypertrophic cardiomyopathy (HCM). Dr. Seema Mital, with support from the Ted Rogers Centre for Heart Research and the Canadian Institutes of Health Research, developed the PRIMaCY score - and sought MDCalc out to publish the score, ensuring widespread availability to physicians around the world.
+Veterans Health Administration COVID-19 (VACO) Index for COVID-19 Mortality - a tool to estimate the risk of 30-day mortality after COVID-19 infection using pre-COVID health status. MDCalc closely collaborated with Dr. Amy Justice and her research team at the VA to create both a clinician and patient facing tool to give insights on health after COVID infection.
+Contributors
+MDCalc contributors provide valuable clinical insights that help users go beyond the tools to learn about how best to utilize them at the point-of-care.
+Akhil Khosla, MD
+Benjamin Kummer, MD
+Benjamin Slovis, MD
+Chetana Pendkar, MBBS
+Christian Hietanen, DO
+Christopher Tainter, MD, RDMS
+Cullen Clark, MD
+Daniel Runde, MD
+Derek Tam, MD, MPH
+Edmund Tsui, MD
+Elie Harmouche, MD
+Evan Zeitler, MD
+Graham Walker, MD
+Hyunjoo Lee, MD
+Joseph Mizrahi, MD
+Joshua Beiner, MD
+Justin Taylor, MD
+Matthew Lecuyer, MD, MPH
+Matthew Negaard, MD
+Priya Patel, MD
+Ronald George Hauser, MD
+Scott Lucyk, MD

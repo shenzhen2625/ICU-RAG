@@ -1,0 +1,76 @@
+Adaptive Support Ventilation
+OVERVIEW
+- Adaptive support ventilation (ASV) is a positive pressure mode of mechanical ventilation that is closed-loop controlled, and automatically adjusts based on the patient’s requirements
+- designed to ensure optimization of the patient’s work of breathing
+CLOSED LOOP CONTROL
+- closed-loop control involves a positive or negative feedback of the information on the respiratory mechanics of the patient
+- it is based on measurements made almost continuously which can be modified or adapted in a more physiological and individualized ventilatory support manner
+Two basic methods
+- Control between breaths (inter-breath) which refers to the setting of control between each breath, but keeping it constant throughout the breath cycle (e.g. ASV)
+- intra-breath control, which does it within the same breath
+- see figure here
+Other modes are all variations of PSV
+- Proportional Assist Ventilation (PAV)
+- Neurally Adjusted Ventilatory Assistance (NAVA)
+- Knowledge-Based Systems (KBS)
+ASV combines modes
+- PSV, if RR is higher than the target
+- PCV if there is no spontaneous breathing
+- SIMV when patient’s RR is lower than target
+VENTILATOR SETTINGS
+These are set by the user:
+- Height of the patient (cm): Based on this it calculate the ideal body weight and dead space 2.2 ml/kg
+- Gender
+- % Min Vol: 25-350%Normal 100%, asthma 90%, acute respiratory distress syndrome (ARDS) 120%, others 110%, Add 20% if T body >38.5°C (101.3°F) or add 5% for every 500 m (1640 feet) above sea level
+- Trigger: Flow trigger of 2 l/min
+- Expiratory trigger sensitivity: Start with 25% and 40% in Chronic obstructive pulmonary disease COPD
+- Tube resistance compensation: Set to 100%
+- High pressure alarm limit: 10 cm H2O be the limit of ↓ and ↑ least 25 cm H2O of PEEP/continuous positive airway pressure (CPAP)
+- PEEP
+- FiO2
+Then:
+- ASV selects the respiratory pattern in terms of RR, VT, Inspiratory:Expiratory time (I:E ratio) for mandatory breathing and reaches the respiratory pattern selected
+- Otis equation is used to determine the RR at which work of breathing is optimse
+- starts with test breaths to obtain measurements
+- ventilation is pressure and volume limited
+- % VM can be titrtated by the operator according to clinical criteria and ABG results
+PROS AND CONS
+Advantages
+- versatile
+- can ventilate any patient group
+- safe
+- prevents tachypnea, autoPEEP and dead space
+- less operator dependent and less need for operator involvement
+- decreases time on mechanical ventilation
+- adjusts to patient inspiratory effort
+Disadvantages
+- cannot directly program VT, RR and I:E ratio
+- limited paediatric experience
+- algorithm tends to ventilate with low tidal volume and high RR
+- only available with Hamilton ventilators
+References and Links
+CCC Ventilation Series
+Modes: Adaptive Support Ventilation (ASV), Airway Pressure Release Ventilation (APRV), High Frequency Oscillation Ventilation (HFOV), High Frequency Ventilation (HFV), Modes of ventilation, Non-Invasive Ventilation (NIV), Spontaneous breathing and mechanical ventilation
+Conditions: Acute Respiratory Distress Syndrome (ARDS), ARDS Definitions, ARDS Literature Summaries, Asthma, Bronchopleural Fistula, Burns, Oxygenation and Ventilation, COPD, Haemoptysis, Improving Oxygenation in ARDS, NIV and Asthma, NIV and the Critically Ill, Ventilator Induced Lung Injury (VILI), Volutrauma
+Strategies: ARDSnet Ventilation, Open lung approach, Oxygen Saturation Targets, Protective Lung Ventilation, Recruitment manoeuvres in ARDS, Sedation pauses, Selective Lung Ventilation
+Adjuncts: Adjunctive Respiratory Therapies, ECMO Overview, Heliox, Neuromuscular blockade in ARDS, Prone positioning and Mechanical Ventilation
+Situations: Cuff leak, Difficulty weaning, High Airway Pressures, Post-Intubation Care, Post-intubation hypoxia
+Troubleshooting: Autotriggering of the ventilator, High airway and alveolar pressures / pressure alarm, Ventilator Dyssynchrony
+Investigation / Indices: A-a gradient, Capnography and waveforms, Electrical Impedance Tomography, Indices that predict difficult weaning, PaO2/FiO2 Ratio (PF), Transpulmonary pressure (TPP)
+Extubation: Cuff Leak Test, Extubation Assessment in ED, Extubation Assessment in ICU, NIV for weaning, Post-Extubation Stridor, Spontaneous breathing trial, Unplanned extubation, Weaning from mechanical ventilation
+Core Knowledge: Basics of Mechanical Ventilation, Driving Pressure, Dynamic pressure-volume loops, flow versus time graph, flow volume loops, Indications and complications, Intrinsic PEEP (autoPEEP), Oxygen Haemoglobin Dissociation Curve, Positive End Expiratory Pressure (PEEP), Pulmonary Mechanics, Pressure Vs Time Graph, Pressure vs Volume Loop, Setting up a ventilator, Ventilator waveform analysis, Volume vs time graph
+Equipment: Capnography and CO2 Detector, Heat and Moisture Exchanger (HME), Ideal helicopter ventilator, Wet Circuit
+MISC: Sedation in ICU, Ventilation literature summaries
+- Fernández J, Miguelena D, Mulett H, Godoy J, Martinón-Torres F. Adaptive support ventilation: State of the art review. Indian J Crit Care Med. 2013 Jan;17(1):16-22.PMC3701392.
+Critical Care
+Compendium
+Chris is an Intensivist and ECMO specialist at The Alfred ICU, where he is Deputy Director (Education). He is a Clinical Adjunct Associate Professor at Monash University, the Lead for the Clinician Educator Incubator programme, and a CICM First Part Examiner.
+He is an internationally recognised Clinician Educator with a passion for helping clinicians learn and for improving the clinical performance of individuals and collectives. He was one of the founders of the FOAM movement (Free Open-Access Medical education) has been recognised for his contributions to education with awards from ANZICS, ANZAHPE, and ACEM.
+His one great achievement is being the father of three amazing children.
+On Bluesky, he is @precordialthump.bsky.social and on the site that Elon has screwed up, he is @precordialthump.
+| INTENSIVE | RAGE | Resuscitology | SMACC
+Hi NIck,
+I understand your comment regarding other spontaneous/supported modes being a variation on PSV. However, it is a false equivalency. ASV is an automated mode for transitioning between controlled, assisted and supported breaths based on patient effort and a target volume/MV.
+Modes with similar MV targeted and/or patient effort based algorithms to transition between fully mandatory – fully supported ventilation exist some of the ventilators you allude to when mentioning NAVA KBS etc. As an example automode on the Servo range of ventilators or MMV on Draeger’s offerings. Comparing NAVA to ASV or PAV to ASV doesn’t work. Both are proportional assist modes with a very different rationale for their development and proposed application.Ultimately, the fully spontaneous/supported breaths in ASV are still just PSV.
+Cheers
+Andy

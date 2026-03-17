@@ -1,0 +1,127 @@
+Acute Respiratory Distress Syndrome – ARDS
+OVERVIEW
+- Acute Respiratory Distress Syndrome (ARDS) is an acute diffuse, inflammatory lung injury, leading to increased pulmonary vascular permeability, increased lung weight, and loss of aerated lung tissue with hypoxemia and bilateral radiographic opacities, associated with increased venous admixture, increased physiological dead space and decreased lung compliance.
+- The term acute lung injury (ALI) has been discarded
+- See ARDS Definitions
+DEFINITION
+The Berlin Definition (2013)
+- acute, with onset over 1 week or less
+- bilateral opacities consistent with pulmonary edema must be present; they may be detected on CT or chest radiograph
+- PF ratio <300mmHg with a minimum of 5 cmH20 PEEP
+- must not be fully explained by cardiac failure or fluid overload, in the physician’s best estimation using available information — an “objective assessment“ (e.g. echocardiogram) should be performed in most cases if there is no clear cause such as trauma or sepsis.
+SEVERITY
+- ARDS is categorized as being mild, moderate, or severe:
+| ARDS Severity | PaO2/FiO2* | Mortality** |
+| Mild | 200 – 300 | 27% |
+| Moderate | 100 – 200 | 32% |
+| Severe | < 100 | 45% |
+*on PEEP 5+; **observed in cohort
+RISK FACTORS
+Direct
+- pneumonia (46%)
+- aspiration of gastric contents (29%)
+- lung contusion (34%)
+- fat embolism
+- near drowning
+- inhalational injury
+- reperfusion injury
+Indirect
+- non-pulmonary sepsis (25%)
+- multiple trauma (41%)
+- massive transfusion (34%)
+- pancreatitis (25%)
+- cardiopulmonary bypass
+PATHOPHYSIOLOGY
+Classical phases
+- Injury
+- Exudative – alveolar capillary membrane disruption with inflammatory cell infiltrate and high protein exudate to form hyaline membranes
+- Proliferative – proliferation of abnormal Type II alveoli cells and inflammatory cells
+- Fibrotic – infiltration with fibroblasts which replace alveoli and alveolar ducts with fibrosis
+- Resolution – slow and incomplete repair and restoration of architecture
+Complex interplay:
+- pulmonary oedema from damage to the alveolocapillary barrier
+- inflammatory infiltrates
+- surfactant dysfunction
+The alveolocapillary barrier
+- damage with bidirectional flow (proteins and fluid in to alveoli, surfactant and alveolar cytokines into plasma)
+- surfactant dysfunction
+- proliferation of type II cells
+-> the balance between repair and fibrosing alveolitis
+Inflammatory infiltrates
+- migration of neutrophils into alveoli with activation -> release of oxygen species, cytokines, eicasanoids, proteases -> tissue damage
+- pulmonary endothelial cells, platelets, interstitial and alveolar macrophages also play important roles in alveolar inflammation.
+Surfactant dysfunction
+- decreased activity -> decrease in pulmonary compliance
+- caused by increased binding by plasma proteins and decreased production
+Effects
+- hypoxaemia (V/Q mismatch, impaired hypoxic pulmonary vasoconstriction)
+- increase in dependent densities (surfactant dysfunction, alveolar instabilities)
+- decreased compliance (surfactant dysfunction, decreased lung volume, fibrosis)
+- collapse/consolidation (increased compression of dependent lung)
+- increased minute ventilation (increased in alveolar dead space)
+- increased work of breathing (increased elastance, increased minute volume requirement)
+- pulmonary hypertension (vasoconstriction, microvascular thrombi, fibrosis, PEEP)
+MANAGEMENT
+General
+- diagnosis and appropriate treatment to minimise physiological impact of cause (drain collection, antibiotics, resuscitate, splint fractures)
+- feed
+- standard ICU prophylaxis
+Mechanical ventilation
+- ARDS Network protective lung ventilation strategy (from the ARMA study)
+- controlled ventilation
+- TV 6mL/kg
+- avoid overstretch (volutrauma) and inadequate recruitment (atelectrauma)
+- PEEP
+- Plateau pressure <30 cmH20 (higher than this contributes to VILI from overstretching and hyperinflation of the functional ‘baby lung’)
+- mode of ventilation: generally no difference
+— PCV tends to be used c/o plateau pressure approximates peak pressure, with VC plateau pressure needs to be measured
+— no role for inverse ratio ventilation (I:E ratio > 1) -> increased mean airway pressure + haemodynamic instability + regional hyperinflation - oxygenation target: SpO2 > 90%, PaO2 >60mmHg
+- carbon dioxide target: ARDSnet aimed for a normal CO2 -> but lung is exposed to repeated tidal stretch, ideally hypercapnia should be minimised but there isn’t compelling data to suggest it is harmful unless there is an obvious reason (raised ICP, pregnancy).
+Other techniques to improve oxygenation
+- prone posture: improves oxygenation and mortality in severe ARDS
+- recruitment manoeuvres (e.g. PEEP 30-40cmH2O held for 30 seconds or staircase recruitment manouvre) -> can improve oxygenation but controversial, not everyone responds
+- inhaled iNO: optimisation of V/Q mis-match, 1-60ppm, on 40-70% will respond, monitor for metHb
+- inhaled prostacycline (PGI2): optimisation of V/Q mis-match, 1-50ng/kg/min, as effective as iNO
+Pharmacological therapy
+- surfactant replacement therapy: theoretically good, improves oxygenation but no improvement in mortality, problems with distribution to alveoli
+- glucocorticoids: improvement in ventilator free days and shock, no improvement in mortality and increase in weakness
+- ketoconazole: antifungal that inhibits thromboxane synthase and 5-lipooxygenase -> early data but not confirmed.
+- others: cytokine antagonism, NSAIDS, scavengers of O2 radicals, lisofylline -> no success, APC in sepsis
+Seek and treat underlying causes and complications
+PROGNOSIS
+- pulmonary function returns to normal at 6-12 months in survivors
+- occasionally patient have severe restrictive lung disease
+- although this is the case, many patient have a severe reduction and pulmonary QOL -> depression, anxiety and PTSD are common
+- patient often have cognitive impairment -> these correlate with the period and severity of hypoxia
+References and Links
+CCC Ventilation Series
+Modes: Adaptive Support Ventilation (ASV), Airway Pressure Release Ventilation (APRV), High Frequency Oscillation Ventilation (HFOV), High Frequency Ventilation (HFV), Modes of ventilation, Non-Invasive Ventilation (NIV), Spontaneous breathing and mechanical ventilation
+Conditions: Acute Respiratory Distress Syndrome (ARDS), ARDS Definitions, ARDS Literature Summaries, Asthma, Bronchopleural Fistula, Burns, Oxygenation and Ventilation, COPD, Haemoptysis, Improving Oxygenation in ARDS, NIV and Asthma, NIV and the Critically Ill, Ventilator Induced Lung Injury (VILI), Volutrauma
+Strategies: ARDSnet Ventilation, Open lung approach, Oxygen Saturation Targets, Protective Lung Ventilation, Recruitment manoeuvres in ARDS, Sedation pauses, Selective Lung Ventilation
+Adjuncts: Adjunctive Respiratory Therapies, ECMO Overview, Heliox, Neuromuscular blockade in ARDS, Prone positioning and Mechanical Ventilation
+Situations: Cuff leak, Difficulty weaning, High Airway Pressures, Post-Intubation Care, Post-intubation hypoxia
+Troubleshooting: Autotriggering of the ventilator, High airway and alveolar pressures / pressure alarm, Ventilator Dyssynchrony
+Investigation / Indices: A-a gradient, Capnography and waveforms, Electrical Impedance Tomography, Indices that predict difficult weaning, PaO2/FiO2 Ratio (PF), Transpulmonary pressure (TPP)
+Extubation: Cuff Leak Test, Extubation Assessment in ED, Extubation Assessment in ICU, NIV for weaning, Post-Extubation Stridor, Spontaneous breathing trial, Unplanned extubation, Weaning from mechanical ventilation
+Core Knowledge: Basics of Mechanical Ventilation, Driving Pressure, Dynamic pressure-volume loops, flow versus time graph, flow volume loops, Indications and complications, Intrinsic PEEP (autoPEEP), Oxygen Haemoglobin Dissociation Curve, Positive End Expiratory Pressure (PEEP), Pulmonary Mechanics, Pressure Vs Time Graph, Pressure vs Volume Loop, Setting up a ventilator, Ventilator waveform analysis, Volume vs time graph
+Equipment: Capnography and CO2 Detector, Heat and Moisture Exchanger (HME), Ideal helicopter ventilator, Wet Circuit
+MISC: Sedation in ICU, Ventilation literature summaries
+LITFL
+- CCC — ARDS Definitions
+- CCC — ARDS Literature Summaries
+Journal articles
+- Ashbaugh DG, Bigelow DB, Petty TL, Levine BE. Acute respiratory distress in adults. Lancet (London, England). 2(7511):319-23. 1967. [pubmed]
+- Boyle AJ, Mac Sweeney R, McAuley DF. Pharmacological treatments in ARDS; a state-of-the-art update. BMC medicine. 11:166. 2013. [pubmed] [free full text]
+- Gattinoni L, Pesenti A. The concept of “baby lung”. Intensive care medicine. 31(6):776-84. 2005. [pubmed]
+- Gattinoni L, Chiumello D, Cressoni M, Valenza F. Pulmonary computed tomography and adult respiratory distress syndrome. Swiss medical weekly. 135(11-12):169-74. 2005. [pubmed] [free full text]
+- Malhotra A. Low-tidal-volume ventilation in the acute respiratory distress syndrome. The New England journal of medicine. 357(11):1113-20. 2007. [pubmed] [free full text]
+- Ware LB, Matthay MA. The acute respiratory distress syndrome. The New England journal of medicine. 342(18):1334-49. 2000. [pubmed]
+Critical Care
+Compendium
+Chris is an Intensivist and ECMO specialist at The Alfred ICU, where he is Deputy Director (Education). He is a Clinical Adjunct Associate Professor at Monash University, the Lead for the Clinician Educator Incubator programme, and a CICM First Part Examiner.
+He is an internationally recognised Clinician Educator with a passion for helping clinicians learn and for improving the clinical performance of individuals and collectives. He was one of the founders of the FOAM movement (Free Open-Access Medical education) has been recognised for his contributions to education with awards from ANZICS, ANZAHPE, and ACEM.
+His one great achievement is being the father of three amazing children.
+On Bluesky, he is @precordialthump.bsky.social and on the site that Elon has screwed up, he is @precordialthump.
+| INTENSIVE | RAGE | Resuscitology | SMACC
+Appreciate the content,very helpful, when simplified.
+Thanks Chris
