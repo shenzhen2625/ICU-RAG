@@ -1,6 +1,5 @@
 from langchain_core.prompts import PromptTemplate
 
-# 注意：template 前面的 'r' 非常重要，它解决了 \w 的报错
 ICU_PROMPT = PromptTemplate(
     input_variables=["context", "question"],
     template=r"""
