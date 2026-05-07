@@ -79,7 +79,7 @@ def crawl():
         # 2. 获取并爬取次级页面
         sub_links = get_sub_links(base_url)
         for j, sub_url in enumerate(sub_links):
-            time.sleep(1) # 礼貌爬取，防止被封
+            time.sleep(1)
             sub_text = fetch_page(sub_url)
             if sub_text:
                 save_doc(sub_text, f"site_{i}_sub_{j}")

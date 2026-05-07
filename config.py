@@ -1,7 +1,7 @@
 import os
 
 # DashScope API
-DASHSCOPE_API_KEY = "key"
+DASHSCOPE_API_KEY = "api"
 
 # Embedding API (DashScope embedding)
 EMBEDDING_MODEL = "text-embedding-v1"
