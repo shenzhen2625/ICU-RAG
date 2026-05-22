@@ -1,10 +1,10 @@
 import os
 
 # DashScope API
-DASHSCOPE_API_KEY = "api"
+DASHSCOPE_API_KEY = "sk-c4918b38a03e43ce92d7e6bdaf278a23"
 
 # Embedding API (DashScope embedding)
-EMBEDDING_MODEL = "text-embedding-v1"
+EMBEDDING_MODEL = "tongyi-embedding-vision-plus-2026-03-06"
 
 # LLM model
 LLM_MODEL = "qwen-plus"

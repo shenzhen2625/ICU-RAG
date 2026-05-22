@@ -6,12 +6,12 @@ from urllib.parse import urljoin, urlparse
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import DashScopeEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.document_loaders import PyMuPDFLoader, TextLoader, DirectoryLoader
+import time
+import trafilatura
 
 from config import *
-import trafilatura
-import time
 
 headers = {"User-Agent": "Mozilla/5.0"}
 
@@ -36,7 +36,6 @@ def load_urls_with_subpages(max_subpages=3):
         if text:
             docs.append(Document(page_content=text, metadata={"source": base_url}))
         
-        # 获取次级页面
         try:
             r = requests.get(base_url, headers=headers, timeout=10)
             soup = BeautifulSoup(r.text, 'html.parser')
@@ -63,7 +62,6 @@ def load_web_txts():
     web_dir = os.path.join(DATA_DIR, "web")
     if not os.path.exists(web_dir):
         return []
-    # 使用 DirectoryLoader 批量加载 txt，并指定编码
     loader = DirectoryLoader(web_dir, glob="**/*.txt", loader_cls=TextLoader, loader_kwargs={'autodetect_encoding': True})
     return loader.load()
 
@@ -71,13 +69,11 @@ def load_pdfs():
     docs = []
     path = os.path.join(DATA_DIR, "pdf")
     
-    # 如果文件夹不存在，自动创建并提示
     if not os.path.exists(path):
         os.makedirs(path, exist_ok=True)
         print(f"已自动创建文件夹: {path}. 暂无PDF文件可加载。")
         return docs
 
-    # 遍历并使用 PyMuPDF 读取每个 PDF
     for filename in os.listdir(path):
         if filename.lower().endswith(".pdf"):
             pdf_path = os.path.join(path, filename)
@@ -101,27 +97,46 @@ def load_cases():
             docs.extend(loader.load())
     return docs
 
+
+def load_medline_knowledge():
+    """加载从 XML 解析出来的权威医学词条"""
+    medline_dir = os.path.join(DATA_DIR, "medline")
+    if not os.path.exists(medline_dir):
+        print(f"未找到 {medline_dir} 文件夹，请先运行 parse_medline.py")
+        return []
+    
+    print("Loading MedlinePlus knowledge...")
+    # 使用 DirectoryLoader 批量加载
+    loader = DirectoryLoader(medline_dir, glob="**/*.txt", loader_cls=TextLoader, loader_kwargs={'encoding': 'utf-8'})
+    docs = loader.load()
+    print(f"成功加载 {len(docs)} 个权威医学词条。")
+    return docs
+
 def build_index():
     print("Loading documents...")
     docs = []
     
-    docs.extend(load_urls_with_subpages())
-    docs.extend(load_web_txts()) # 现在可以正确解析 web 文件夹了
+    #docs.extend(load_medline_knowledge())
+    #docs.extend(load_urls_with_subpages())
+    docs.extend(load_web_txts()) 
     docs.extend(load_pdfs())
-    docs.extend(load_cases())
+    #docs.extend(load_cases())
 
     print("Total docs before splitting:", len(docs))
 
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=500,
-        chunk_overlap=100
+        chunk_size=600,
+        chunk_overlap=150
     )
     split_docs = splitter.split_documents(docs)
     print("Chunks after splitting:", len(split_docs))
 
-    embeddings = DashScopeEmbeddings(
-        model=EMBEDDING_MODEL,
-        dashscope_api_key=DASHSCOPE_API_KEY
+    model_name = "pritamdeka/S-PubMedBert-MS-MARCO"
+    
+    embeddings = HuggingFaceEmbeddings(
+        model_name=model_name,
+        model_kwargs={'device': 'cpu'}, 
+        encode_kwargs={'normalize_embeddings': True} 
     )
 
     vector_store = FAISS.from_documents(split_docs, embeddings)
