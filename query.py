@@ -1,6 +1,7 @@
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.chat_models import ChatTongyi
+from langchain_core.messages import SystemMessage, HumanMessage
 
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
@@ -48,9 +49,35 @@ def build_chain(vector_store):
 
     return chain, retriever
 
+# 翻译模块
+def translate_query_if_needed(query: str, llm: ChatTongyi) -> str:
+    """
+    判断并翻译：利用 LLM 直接判断语种。如果是英文直接返回，如果是中文则翻译为医学英文。
+    """
+    system_prompt = (
+        "You are an expert medical translator for an ICU Clinical Decision Support System. "
+        "Rule 1: If the user's input is entirely in English, output it EXACTLY as it is. "
+        "Rule 2: If the input contains Chinese or other languages, translate it into precise, professional medical English suitable for PubMed keyword retrieval. "
+        "Rule 3: ONLY output the final English text. Do not add any explanations, introductory words, quotes, or markdown formatting."
+    )
+    
+    messages = [
+        SystemMessage(content=system_prompt),
+        HumanMessage(content=query)
+    ]
+    
+    response = llm.invoke(messages)
+    return response.content.strip()
+
 if __name__ == "__main__":
     global_vector_store = load_vector()
     qa_chain, global_retriever = build_chain(global_vector_store)
+
+    translator_llm = ChatTongyi(
+        model_name=LLM_MODEL,
+        dashscope_api_key=DASHSCOPE_API_KEY,
+        temperature=0 
+    )
 
     print("\n" + "="*50)
     print("ICU 谵妄 RAG 助手已启动！(输入 'exit' 退出)")
@@ -62,8 +89,14 @@ if __name__ == "__main__":
         if q.lower() == "exit":
             break
 
+        print("\n正在检测语种并处理提问...")
+        english_q = translate_query_if_needed(q, translator_llm)
+
+        if english_q != q:
+            print(f"已将中文提问转化为英文检索词: {english_q}")
+
         print("\n正在从医学知识库中检索...")
-        docs = global_retriever.invoke(q)
+        docs = global_retriever.invoke(english_q)
         for i, doc in enumerate(docs):
             # 获取 metadata，如果没有 source 则显示 Unknown
             source = doc.metadata.get('source', 'Unknown source')
@@ -73,6 +106,6 @@ if __name__ == "__main__":
             print(f"内容截取: {doc.page_content[:150]}...\n" + "-"*30)
 
         print("\n正在生成诊断建议...")
-        answer = qa_chain.invoke(q)
+        answer = qa_chain.invoke(english_q)
 
         print("\n最终回答:\n", answer)
